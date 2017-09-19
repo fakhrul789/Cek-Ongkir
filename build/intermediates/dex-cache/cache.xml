@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/islam/AndroidStudioProjects/CekOngkir/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56559ab30c0db849ecda186404f9c9dd964ee92d">
+        <dex dex="/home/islam/AndroidStudioProjects/CekOngkir/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3b1c8eb25dc339311c1a8f1d2ebd199b4dd7c142/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/islam/AndroidStudioProjects/CekOngkir/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/islam/AndroidStudioProjects/CekOngkir/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5fb0a019108e978333abdb26ec040a35b1da54d6/classes.dex" />
+    </item>
+
+</items>

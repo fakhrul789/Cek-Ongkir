@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cek Ongkir</string>
+    <string name="base_url">https://api.rajaongkir.com/starter/</string>
+</resources>
